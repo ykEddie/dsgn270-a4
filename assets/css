@@ -1,0 +1,5 @@
+/* Text-size styles */
+--cards-and--headers: 52px;
+--product--titles: 24px;
+--article--text: 48px;
+--nav---footer--text: 24px;
